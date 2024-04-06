@@ -21,15 +21,17 @@ The Poisson distribution is the discrete probability distribution of the number 
 4. The probability of an event occurring is proportional to the length of the time period. 
  
 # Procedure :
-
 ![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)
 
 # Experiment :
-
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
 # Program :
 ```
+Developed by: R.SANJANA
+Reg No. 212223240148
+Dept: Artificial Intelligence and Machine Learning
+
 import numpy as np
 import math
 import scipy.stats
@@ -67,10 +69,8 @@ else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 ```
 # Output : 
-
-
+![Screenshot 2024-04-06 075412](https://github.com/23008112/Poisson_distribution/assets/138972470/0ee894c1-a73a-438d-b4fb-2ffc70785829)
 
 # Results
-
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
  
